@@ -14,10 +14,11 @@
 #### PC3 run *Receive folder*
 ## Data 
 We can get data from other groups.  
-- Group 5 - *ID, Object name, start time and class of object* 
-- Group 6 - *ID, Object name, result of defect detection and image* 
 - Group 1 - *ID, Object name, Finish time and ID of Shipment* 
 - Group 2 - *ID, Object name, position of object and webcam video* 
+- Group 4 - *ID, Object name, class of object* 
+- Group 5 - *ID, Object name, start time* 
+- Group 6 - *ID, Object name, result of defect detection and image* 
 ## How to use
 #### First Step
 1. Open Mosquitto Broker and allow other PC to connect
